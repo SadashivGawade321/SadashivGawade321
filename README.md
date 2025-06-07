@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadashivgawade321&show_icons=true&locale=en" alt="sadashivgawade321" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadashivgawade321&" alt="sadashivgawade321" /></p>
+
+![snake gif](https://github.com/SadashivGawade321/SadashivGawade321/blob/output/ocean.gif)
