@@ -1,3 +1,6 @@
+
+![logo](https://github.com/SadashivGawade321/SadashivGawade321/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
+
 <h1 align="center">Hi 👋, I'm Sadashiv Gawade</h1>
 <h3 align="center">A passionate frontend developer and an AI Enthusiastic from India....</h3>
 
