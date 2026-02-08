@@ -16,6 +16,32 @@
 
 - ⚡ Fun fact **soon i will be stronger**
 
+<h3 align="left">🎓 GitHub Student Developer Pack:</h3>
+<p>
+As a student, you can access the GitHub Student Developer Pack which includes access to the best developer tools for free! 
+</p>
+
+**How to see all offers:**
+- 🌐 Visit the official GitHub Student Pack page: [https://education.github.com/pack](https://education.github.com/pack)
+- 📚 Browse through 100+ offers from industry-leading tools and services
+- 🎯 Get free access to tools for development, design, cloud hosting, domains, and more
+
+**Popular offers include:**
+- GitHub Pro (Advanced GitHub features)
+- Microsoft Azure (Cloud computing credits)
+- Heroku (Platform-as-a-Service)
+- DigitalOcean (Cloud infrastructure credits)
+- Canva Pro (Design tools)
+- NameCheap (Free domain and SSL)
+- MongoDB (Database hosting)
+- JetBrains (Professional IDEs)
+- And many more!
+
+**To apply:**
+1. Go to [https://education.github.com/discount_requests/student_application](https://education.github.com/discount_requests/student_application)
+2. Verify your student status with your school email or documents
+3. Once approved, access all offers through the Student Pack portal
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sadashiv gawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadashiv gawade" height="30" width="40" /></a>
