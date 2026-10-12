@@ -1,9 +1,18 @@
 
 
-![logo](https://github.com/SadashivGawade321/SadashivGawade321/blob/main/diragon.gif)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:5A0000,60:D7260A,85:FF6A00,100:FFD000&text=SADASHIV%20GAWADE&fontSize=54&fontColor=FFF3D6&fontAlignY=36&stroke=000000&strokeWidth=2&desc=%F0%9F%90%89%20DRAGON%20OF%20CODE%20%E2%80%A2%20FORGED%20IN%20FIRE%20%F0%9F%94%A5&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Sadashiv Gawade Banner"/>
+<img src="https://raw.githubusercontent.com/SadashivGawade321/SadashivGawade321/main/diragon.gif"
+     width="100%"
+     alt="Dragon Logo"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:5A0000,60:D7260A,85:FF6A00,100:FFD000&text=SADASHIV%20GAWADE&fontSize=54&fontColor=FFF3D6&fontAlignY=36&stroke=000000&strokeWidth=2&desc=%F0%9F%90%89%20DRAGON%20OF%20CODE%20%E2%80%A2%20FORGED%20IN%20FIRE%20%F0%9F%94%A5&descSize=18&descAlignY=58&animation=fadeIn"
+     width="100%"
+     alt="Sadashiv Gawade Dragon Banner"/>
+
+</div>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=780&height=50&lines=%F0%9F%94%A5+Engineering+Ideas+Into+Real-World+Solutions;%F0%9F%90%89+B.Tech+IT+%7C+AI%2FML+%7C+Full-Stack;%E2%9A%94%EF%B8%8F+Building+Apps+%26+Developer+Tools;%F0%9F%94%A5+Open+to+Internships+%26+Entry-Level+Roles" alt="Typing animation"/>
 
