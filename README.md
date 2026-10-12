@@ -1,7 +1,8 @@
+
 <div align="center">
 
 <!-- ░░░ ANIMATED NEURAL-CORE BANNER (assets/banner.svg) ░░░ -->
-<img src="assets/banner.svg" width="100%" alt="Sadashiv Gawade – AI Engineer, Full-Stack Developer, Systems Thinker"/>
+<img src="banner.svg" width="100%" alt="Sadashiv Gawade – AI Engineer, Full-Stack Developer, Systems Thinker"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=00D4FF&background=00000000&center=true&vCenter=true&width=920&height=52&lines=%3E+model.fit%28curiosity%2C+epochs%3D%E2%88%9E%29;%24+whoami+%E2%86%92+Sadashiv+Gawade%2C+B.Tech+IT+Undergraduate;%24+focus+%E2%86%92+AI%2FML+%C2%B7+NLP+%C2%B7+Generative+AI+%C2%B7+Full-Stack;%24+deploy+--production+%E2%86%92+Ship+with+purpose;%24+status+%E2%86%92+Open+to+internships+%26+entry-level+roles" alt="Typing animation"/>
 
