@@ -1,32 +1,39 @@
 <div align="center">
 
-<!-- ░░░ MATRIX HEADER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,35:001a05,70:00a82d,100:00FF41&text=SADASHIV%20GAWADE&fontSize=58&fontColor=00FF41&fontAlignY=42&stroke=00FF41&strokeWidth=1&desc=AI%20ENGINEER%20%E2%80%A2%20FULL-STACK%20DEVELOPER%20%E2%80%A2%20SYSTEMS%20THINKER&descSize=16&descAlignY=62&descColor=B6FFC8&animation=fadeIn" width="100%" alt="Sadashiv Gawade – AI Engineer and Full-Stack Developer"/>
+<!-- ░░░ CYBERPUNK HEADER ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:05010f,25:2a0a5e,55:7B2FF7,80:FF2BD6,100:00E5FF&text=SADASHIV%20GAWADE&fontSize=64&fontColor=FFFFFF&fontAlignY=36&stroke=00E5FF&strokeWidth=2&desc=%E2%9A%A1%20AI%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20SYSTEMS%20THINKER%20%E2%9A%A1&descSize=18&descAlignY=60&descColor=E8F9FF&animation=twinkling" width="100%" alt="Sadashiv Gawade – AI Engineer and Full-Stack Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=860&height=50&lines=%24+whoami+%E2%86%92+Sadashiv+Gawade;%24+cat+mission.txt+%E2%86%92+Build+intelligent+software+that+ships;%24+python+train.py+--model+curiosity+--epochs+%E2%88%9E;%24+git+commit+-m+%22Learn+deeply.+Build+practically.%22;%24+status+%E2%86%92+Open+to+internships+%26+entry-level+roles" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=900&height=55&lines=%3E+ACCESS+GRANTED+%E2%96%88;%24+whoami+%E2%86%92+Sadashiv+Gawade;%24+cat+mission.txt+%E2%86%92+Build+intelligent+software+that+ships;%24+python+train.py+--model+curiosity+--epochs+%E2%88%9E;%24+status+%E2%86%92+Open+to+internships+%26+entry-level+roles" alt="Typing animation"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00FF41?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=00FF41" alt="Open to work"/>
-<img src="https://img.shields.io/badge/B.TECH-INFORMATION_TECHNOLOGY-00FF41?style=for-the-badge&labelColor=0D1117&logo=graduation-cap&logoColor=00FF41" alt="B.Tech IT"/>
-<img src="https://img.shields.io/badge/FOCUS-AI_%2F_ML_%C2%B7_NLP_%C2%B7_GENAI-00FF41?style=for-the-badge&labelColor=0D1117&logo=openai&logoColor=00FF41" alt="Focus"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-FF2BD6?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=FF2BD6" alt="Open to work"/>
+<img src="https://img.shields.io/badge/B.TECH-INFORMATION_TECHNOLOGY-00E5FF?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=00E5FF" alt="B.Tech IT"/>
+<img src="https://img.shields.io/badge/FOCUS-AI_%C2%B7_ML_%C2%B7_NLP_%C2%B7_GENAI-7B2FF7?style=for-the-badge&labelColor=0D1117&logo=openai&logoColor=7B2FF7" alt="Focus areas"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/sadashiv-gawade-b658732a9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=0D1117" alt="LinkedIn"/></a>
-<a href="https://github.com/SadashivGawade321"><img src="https://img.shields.io/badge/GitHub-Follow-00FF41?style=flat-square&logo=github&logoColor=00FF41&labelColor=0D1117" alt="GitHub"/></a>
-<a href="https://github.com/SadashivGawade321?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-00FF41?style=flat-square&logo=git&logoColor=00FF41&labelColor=0D1117" alt="Repositories"/></a>
-<img src="https://komarev.com/ghpvc/?username=SadashivGawade321&label=PROFILE+VIEWS&color=00FF41&style=flat-square&labelColor=0D1117" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/sadashiv-gawade-b658732a9/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-00E5FF?style=flat-square&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="https://github.com/SadashivGawade321"><img src="https://img.shields.io/badge/GitHub-FOLLOW-FF2BD6?style=flat-square&logo=github&logoColor=FF2BD6&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://github.com/SadashivGawade321?tab=repositories"><img src="https://img.shields.io/badge/Repositories-EXPLORE-7B2FF7?style=flat-square&logo=git&logoColor=7B2FF7&labelColor=0D1117" alt="Repositories"/></a>
+<img src="https://komarev.com/ghpvc/?username=SadashivGawade321&label=PROFILE+VIEWS&color=FF2BD6&style=flat-square&labelColor=0D1117" alt="Profile views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00FF41,100:000000" width="100%" alt="divider"/>
+<br/>
+
+```ansi
+[  OK  ] Booting neural core ............................ done
+[  OK  ] Loading modules: Python · JS · TS · C++ ........ done
+[  OK  ] Mounting AI/ML · NLP · GenAI stack ............. done
+[  OK  ] Starting full-stack services ................... done
+[ WARN ] Curiosity level: UNSAFE — learning in progress
+[  OK  ] System ready. Awaiting your next opportunity ▌
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,50:FF2BD6,100:7B2FF7" width="100%" alt="divider"/>
 
 ## `> SYSTEM_PROFILE.exe`
-
-```bash
-sadashiv@dev-terminal:~$ cat profile.json
-```
 
 ```json
 {
@@ -41,7 +48,7 @@ sadashiv@dev-terminal:~$ cat profile.json
 }
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00FF41,100:000000" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,50:FF2BD6,100:7B2FF7" width="100%" alt="divider"/>
 
 ## `> TECH_STACK --load-all`
 
@@ -58,8 +65,8 @@ sadashiv@dev-terminal:~$ cat profile.json
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logo=huggingface&logoColor=00FF41&color=0D1117&labelColor=0D1117" alt="NLP"/>
-<img src="https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge&logo=openai&logoColor=00FF41&color=0D1117&labelColor=0D1117" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/NLP-7B2FF7?style=for-the-badge&logo=huggingface&logoColor=white" alt="NLP"/>
+<img src="https://img.shields.io/badge/Generative_AI-FF2BD6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
 
 **`[ FULL-STACK ]`**
 
@@ -71,7 +78,7 @@ sadashiv@dev-terminal:~$ cat profile.json
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00FF41,100:000000" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,50:FF2BD6,100:7B2FF7" width="100%" alt="divider"/>
 
 ## `> ls ./featured-projects`
 
@@ -80,30 +87,30 @@ sadashiv@dev-terminal:~$ cat profile.json
 <td width="50%" valign="top">
 
 ### 🔎 CodeAtlas AI
-<img src="https://img.shields.io/badge/AI-POWERED-00FF41?style=flat-square&labelColor=0D1117" alt="AI powered"/>
-<img src="https://img.shields.io/badge/DEVELOPER-TOOLING-00FF41?style=flat-square&labelColor=0D1117" alt="Developer tooling"/>
+<img src="https://img.shields.io/badge/AI-POWERED-FF2BD6?style=flat-square&labelColor=0D1117" alt="AI powered"/>
+<img src="https://img.shields.io/badge/DEVELOPER-TOOLING-00E5FF?style=flat-square&labelColor=0D1117" alt="Developer tooling"/>
 
 AI-assisted codebase exploration platform for understanding architecture, dependency relationships, and the potential impact of code changes.
 
 **Stack:** `React` `Node.js` `Express` `MongoDB` `GitHub API`
 
 <a href="https://codeatlas181.netlify.app/">
-<img src="https://img.shields.io/badge/▶_LIVE_DEMO-00FF41?style=for-the-badge&labelColor=0D1117" alt="CodeAtlas AI live demo"/>
+<img src="https://img.shields.io/badge/▶_LIVE_DEMO-FF2BD6?style=for-the-badge&labelColor=0D1117" alt="CodeAtlas AI live demo"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤝 SAATHI ONE
-<img src="https://img.shields.io/badge/AI-BUSINESS_ASSISTANT-00FF41?style=flat-square&labelColor=0D1117" alt="AI business assistant"/>
-<img src="https://img.shields.io/badge/MULTILINGUAL-00FF41?style=flat-square&labelColor=0D1117" alt="Multilingual"/>
+<img src="https://img.shields.io/badge/AI-BUSINESS_ASSISTANT-7B2FF7?style=flat-square&labelColor=0D1117" alt="AI business assistant"/>
+<img src="https://img.shields.io/badge/MULTILINGUAL-00E5FF?style=flat-square&labelColor=0D1117" alt="Multilingual"/>
 
 Multilingual AI receptionist demo that handles service enquiries, business information, and booking workflows.
 
 **Stack:** `Python` `Streamlit` `AI Workflows`
 
 <a href="https://saathi-sadashiv.streamlit.app/">
-<img src="https://img.shields.io/badge/▶_LIVE_DEMO-00FF41?style=for-the-badge&labelColor=0D1117" alt="SAATHI ONE live demo"/>
+<img src="https://img.shields.io/badge/▶_LIVE_DEMO-FF2BD6?style=for-the-badge&labelColor=0D1117" alt="SAATHI ONE live demo"/>
 </a>
 
 </td>
@@ -112,30 +119,30 @@ Multilingual AI receptionist demo that handles service enquiries, business infor
 <td width="50%" valign="top">
 
 ### 🧑‍💼 AIHire OS
-<img src="https://img.shields.io/badge/FULL_STACK-APPLICATION-00FF41?style=flat-square&labelColor=0D1117" alt="Full-stack application"/>
-<img src="https://img.shields.io/badge/HR-WORKFLOWS-00FF41?style=flat-square&labelColor=0D1117" alt="HR workflows"/>
+<img src="https://img.shields.io/badge/FULL_STACK-APPLICATION-00E5FF?style=flat-square&labelColor=0D1117" alt="Full-stack application"/>
+<img src="https://img.shields.io/badge/HR-WORKFLOWS-FF2BD6?style=flat-square&labelColor=0D1117" alt="HR workflows"/>
 
 Interview platform concept featuring candidate interview experiences alongside HR and admin management workflows.
 
 **Focus:** `Full-Stack` `Interview Workflows`
 
 <a href="https://github.com/SadashivGawade321/AIHIRE">
-<img src="https://img.shields.io/badge/⌥_VIEW_REPOSITORY-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41&logo=github&logoColor=00FF41" alt="AIHire OS repository"/>
+<img src="https://img.shields.io/badge/⌥_VIEW_REPOSITORY-00E5FF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=00E5FF" alt="AIHire OS repository"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ Distributed Rate Limiter Simulator
-<img src="https://img.shields.io/badge/SYSTEM-DESIGN-00FF41?style=flat-square&labelColor=0D1117" alt="System design"/>
-<img src="https://img.shields.io/badge/INTERACTIVE-00FF41?style=flat-square&labelColor=0D1117" alt="Interactive"/>
+<img src="https://img.shields.io/badge/SYSTEM-DESIGN-7B2FF7?style=flat-square&labelColor=0D1117" alt="System design"/>
+<img src="https://img.shields.io/badge/INTERACTIVE-FF2BD6?style=flat-square&labelColor=0D1117" alt="Interactive"/>
 
 Browser-based simulator for exploring rate-limiting algorithms, caching strategies, traffic management, and distributed-systems concepts.
 
 **Focus:** `Algorithms` `System Design` `Distributed Systems`
 
 <a href="https://distrubuter-ratelimiter.netlify.app/">
-<img src="https://img.shields.io/badge/▶_OPEN_SIMULATOR-00FF41?style=for-the-badge&labelColor=0D1117" alt="Open simulator"/>
+<img src="https://img.shields.io/badge/▶_OPEN_SIMULATOR-FF2BD6?style=for-the-badge&labelColor=0D1117" alt="Open simulator"/>
 </a>
 
 </td>
@@ -144,36 +151,36 @@ Browser-based simulator for exploring rate-limiting algorithms, caching strategi
 
 <div align="center">
 <a href="https://github.com/SadashivGawade321?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&color=0D1117&labelColor=0D1117" alt="All repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="All repositories"/>
 </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00FF41,100:000000" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,50:FF2BD6,100:7B2FF7" width="100%" alt="divider"/>
 
 ## `> ./run --analytics`
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SadashivGawade321&show_icons=true&include_all_commits=true&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9FFD6&ring_color=00FF41" alt="GitHub stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadashivGawade321&layout=compact&langs_count=8&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=C9FFD6" alt="Top languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=SadashivGawade321&show_icons=true&include_all_commits=true&hide_border=false&border_color=7B2FF7&bg_color=0D1117&title_color=FF2BD6&icon_color=00E5FF&text_color=E8F9FF&ring_color=FF2BD6" alt="GitHub stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadashivGawade321&layout=compact&langs_count=8&hide_border=false&border_color=7B2FF7&bg_color=0D1117&title_color=FF2BD6&text_color=E8F9FF" alt="Top languages"/>
 
 <br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=SadashivGawade321&theme=dark&hide_border=false&border=00FF41&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9FFD6&currStreakNum=C9FFD6&sideNums=C9FFD6&dates=7FBF8F" alt="Contribution streak"/>
+<img height="170" src="https://streak-stats.demolab.com?user=SadashivGawade321&theme=dark&hide_border=false&border=7B2FF7&background=0D1117&ring=FF2BD6&fire=00E5FF&currStreakLabel=FF2BD6&sideLabels=E8F9FF&currStreakNum=E8F9FF&sideNums=E8F9FF&dates=9AA5CE" alt="Contribution streak"/>
 
 <br/><br/>
 
 **`[ ACTIVITY GRAPH ]`**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SadashivGawade321&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&radius=8" width="98%" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SadashivGawade321&bg_color=0D1117&color=FF2BD6&line=00E5FF&point=FFFFFF&area=true&area_color=7B2FF7&hide_border=true&radius=8" width="98%" alt="Activity graph"/>
 
 **`[ CONTRIBUTION MATRIX ]`**
 
-<img src="https://ghchart.rshah.org/00FF41/SadashivGawade321" width="95%" alt="Contribution graph"/>
+<img src="https://ghchart.rshah.org/FF2BD6/SadashivGawade321" width="95%" alt="Contribution graph"/>
 
 **`[ ACHIEVEMENTS ]`**
 
-<img src="https://github-profile-trophy.vercel.app/?username=SadashivGawade321&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SadashivGawade321&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies"/>
 
 </div>
 
@@ -190,7 +197,7 @@ Browser-based simulator for exploring rate-limiting algorithms, caching strategi
 </div>
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00FF41,100:000000" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,50:FF2BD6,100:7B2FF7" width="100%" alt="divider"/>
 
 ## `> tail -f ./current-objectives.log`
 
@@ -217,7 +224,7 @@ Mastering DSA and system design while automating testing and delivery with GitHu
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00FF41,100:000000" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,50:FF2BD6,100:7B2FF7" width="100%" alt="divider"/>
 
 ## `> ./connect --open`
 
@@ -234,16 +241,16 @@ sadashiv@dev-terminal:~$ echo "Let's build something remarkable together."
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sadashiv-gawade-b658732a9/">
-<img src="https://img.shields.io/badge/CONNECT_ON-LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41&color=0D1117&labelColor=0D1117" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT_ON-LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/SadashivGawade321">
-<img src="https://img.shields.io/badge/FOLLOW_ON-GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&color=0D1117&labelColor=0D1117" alt="GitHub"/>
+<img src="https://img.shields.io/badge/FOLLOW_ON-GITHUB-FF2BD6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=760&lines=Think+boldly.+Build+intelligently.+Ship+with+purpose.;while+(alive)+%7B+learn()%3B+build()%3B+ship()%3B+%7D" alt="Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1200&color=FF2BD6&center=true&vCenter=true&width=780&lines=Think+boldly.+Build+intelligently.+Ship+with+purpose.;while+(alive)+%7B+learn()%3B+build()%3B+ship()%3B+%7D" alt="Tagline"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00FF41,45:00a82d,80:001a05,100:000000" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00E5FF,40:FF2BD6,75:7B2FF7,100:05010f" width="100%" alt="Footer"/>
 
 </div>
