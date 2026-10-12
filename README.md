@@ -1,34 +1,177 @@
 
+
 ![logo](https://github.com/SadashivGawade321/SadashivGawade321/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Sadashiv Gawade</h1>
-<h3 align="center">A passionate frontend developer and an AI Enthusiastic from India....</h3>
+# Hi, I'm Sadashiv Gawade 👋
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+### Information Technology Undergraduate · AI/ML · Data Science · Full-Stack Development
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadashivgawade321&label=Profile%20views&color=0e75b6&style=flat" alt="sadashivgawade321" /> </p>
+I build practical software, AI-powered applications, and developer tools that turn ideas into useful products.
 
-- 🌱 I’m currently learning **JAVA, React.js**
-
-- 👨‍💻 All of my projects are available at [https://sadashivgawade.vercel.app](https://sadashivgawade.vercel.app)
-
-- 📫 How to reach me **gawadelaxmi075@gmail.com**
-
-- ⚡ Fun fact **soon i will be stronger**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sadashiv gawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadashiv gawade" height="30" width="40" /></a>
-<a href="https://instagram.com/_.sshiv._96k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sshiv._96k" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/SadashivGawade321">
+    <img src="https://komarev.com/ghpvc/?username=SadashivGawade321&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
+  </a>
+  <a href="https://github.com/SadashivGawade321?tab=followers">
+    <img src="https://img.shields.io/github/followers/SadashivGawade321?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://www.linkedin.com/in/sadashiv-gawade-b658732a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SadashivGawade321">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadashivgawade321&show_icons=true&locale=en&layout=compact" alt="sadashivgawade321" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadashivgawade321&show_icons=true&locale=en" alt="sadashivgawade321" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadashivgawade321&" alt="sadashivgawade321" /></p>
+## 👨‍💻 About Me
+
+- 🎓 I'm pursuing a **B.Tech in Information Technology**.
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, NLP, and Data Science**.
+- 🌐 Build full-stack applications with modern web technologies and APIs.
+- 🧠 Exploring **Generative AI, system design, and reliable AI-powered tools**.
+- ⚙️ Learning developer workflows with **Git, GitHub Actions, and CI/CD**.
+- 🤝 Open to collaborating on meaningful AI/ML, data, and full-stack projects.
+- 🎯 Currently looking for **internship and entry-level opportunities** in AI/ML, Python development, Data Science, or Full-Stack Development.
+
+## 🧰 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css,sql" alt="Python, JavaScript, TypeScript, C++, HTML, CSS, SQL" />
+</p>
+
+### AI, Machine Learning & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv" alt="Scikit-learn, PyTorch, TensorFlow, OpenCV" />
+</p>
+
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `NLP` · `Generative AI` · `Exploratory Data Analysis`
+
+### Web Development & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,django,tailwind" alt="React, Next.js, Node.js, Express, FastAPI, Flask, Django, Tailwind CSS" />
+</p>
+
+### Databases, Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,git,github,docker,linux,vscode,postman" alt="MongoDB, MySQL, PostgreSQL, Redis, Git, GitHub, Docker, Linux, VS Code, Postman" />
+</p>
+
+`REST APIs` · `GitHub Actions` · `CI/CD fundamentals` · `Vercel` · `Streamlit`
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 CodeAtlas AI</h3>
+      <p>AI-assisted codebase exploration for understanding project architecture, dependencies, and potential change impact.</p>
+      <p><strong>Focus:</strong> Developer tools · Code analysis · Full-stack development</p>
+      <a href="https://codeatlas181.netlify.app/"><strong>Live Demo ↗</strong></a> ·
+      <a href="https://github.com/SadashivGawade321"><strong>Source on GitHub ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 SAATHI ONE</h3>
+      <p>An AI business receptionist demo designed to help service-based businesses handle common enquiries and booking requests.</p>
+      <p><strong>Focus:</strong> AI applications · Streamlit · Business workflows</p>
+      <a href="https://saathi-sadashiv.streamlit.app/"><strong>Live Demo ↗</strong></a> ·
+      <a href="https://github.com/SadashivGawade321"><strong>Source on GitHub ↗</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑‍💼 AIHire OS</h3>
+      <p>An interview platform concept with candidate-facing interview features and HR/admin workflows.</p>
+      <p><strong>Focus:</strong> Full-stack development · Interview workflows</p>
+      <a href="https://github.com/SadashivGawade321/AIHIRE"><strong>Repository ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Distributed Rate Limiter Simulator</h3>
+      <p>An interactive, no-backend simulator for exploring system-design concepts such as rate limiting, caching, traffic flow, and resilience.</p>
+      <p><strong>Focus:</strong> System design · Algorithms · Distributed systems</p>
+      <a href="https://distrubuter-ratelimiter.netlify.app/"><strong>Live Demo ↗</strong></a>
+    </td>
+  </tr>
+</table>
+
+> More experiments and repositories are available in my [GitHub repositories](https://github.com/SadashivGawade321?tab=repositories).
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/SadashivGawade321">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SadashivGawade321&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub stats including contributions and stars" />
+</a>
+<a href="https://github.com/SadashivGawade321">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadashivGawade321&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used programming languages" />
+</a>
+
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SadashivGawade321&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
+</div>
+
+### 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SadashivGawade321&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+### 🏆 GitHub Profile Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SadashivGawade321&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies" />
+
+</div>
+
+---
+
+## 🌱 What I'm Focusing On
+
+- Building useful AI/ML applications with clear, practical outcomes.
+- Improving my understanding of data processing, model evaluation, and NLP.
+- Developing robust APIs and full-stack applications.
+- Practising DSA and learning system-design fundamentals.
+- Improving automated testing and CI/CD workflows with GitHub Actions.
+
+## 🤝 Let's Connect
+
+I'm happy to connect with developers, collaborate on projects, and discuss internship or entry-level opportunities.
+
+<p>
+  <a href="https://www.linkedin.com/in/sadashiv-gawade-b658732a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sadashiv%20Gawade-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="https://github.com/SadashivGawade321">
+    <img src="https://img.shields.io/badge/GitHub-SadashivGawade321-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</p>
+
+<div align="center">
+
+### “Build. Learn. Improve. Repeat.” 🚀
+
+</div>
 
 ![snake gif](https://github.com/SadashivGawade321/SadashivGawade321/blob/output/ocean.gif)
