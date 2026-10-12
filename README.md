@@ -1,3 +1,6 @@
+
+
+![logo](https://github.com/SadashivGawade321/SadashivGawade321/blob/main/diragon.gif)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:5A0000,60:D7260A,85:FF6A00,100:FFD000&text=SADASHIV%20GAWADE&fontSize=54&fontColor=FFF3D6&fontAlignY=36&stroke=000000&strokeWidth=2&desc=%F0%9F%90%89%20DRAGON%20OF%20CODE%20%E2%80%A2%20FORGED%20IN%20FIRE%20%F0%9F%94%A5&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Sadashiv Gawade Banner"/>
