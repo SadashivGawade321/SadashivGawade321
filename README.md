@@ -1,17 +1,185 @@
 
 
 
+
+<!-- 🔥 TOP GITHUB-STYLE BANNER -->
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/SadashivGawade321/SadashivGawade321/main/diragon.gif"
-     width="100%"
-     alt="Dragon Logo"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:5A0000,60:D7260A,85:FF6A00,100:FFD000&text=SADASHIV%20GAWADE&fontSize=54&fontColor=FFF3D6&fontAlignY=36&stroke=000000&strokeWidth=2&desc=%F0%9F%90%89%20DRAGON%20OF%20CODE%20%E2%80%A2%20FORGED%20IN%20FIRE%20%F0%9F%94%A5&descSize=18&descAlignY=58&animation=fadeIn"
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:180000,40:5A0000,65:D7260A,85:FF4500,100:FFD000&text=SADASHIV%20GAWADE&fontSize=56&fontColor=FFF3D6&fontAlignY=38&stroke=FF4500&strokeWidth=1&desc=%F0%9F%90%89%20DRAGON%20OF%20CODE%20%E2%80%A2%20FORGED%20IN%20FIRE%20%F0%9F%94%A5&descSize=18&descAlignY=60&animation=fadeIn"
      width="100%"
      alt="Sadashiv Gawade Dragon Banner"/>
-
 </div>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sadashiv Gawade | Dragon Banner</title>
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #080808;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dragon-banner {
+    position: relative;
+    width: 100%;
+    min-height: 300px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    isolation: isolate;
+    background: radial-gradient(
+        ellipse at 50% 110%,
+        #ff2600 0%, #8c1000 22%,
+        #360700 48%, #050505 78%
+    );
+}
+
+.dragon-banner::before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    inset: 35% -20% -45%;
+    background: repeating-conic-gradient(
+        from 0deg at 50% 100%,
+        transparent 0deg 7deg,
+        rgba(255, 35, 0, .9) 8deg,
+        rgba(255, 110, 0, .45) 10deg,
+        transparent 13deg 20deg
+    );
+    filter: blur(18px);
+    opacity: .85;
+    animation: fireMove 4s ease-in-out infinite alternate;
+}
+
+.fire-glow {
+    position: absolute;
+    inset: auto 0 0;
+    height: 100px;
+    background: linear-gradient(
+        0deg,
+        #ff2100 0%,
+        rgba(255, 65, 0, .65) 20%,
+        transparent 100%
+    );
+    filter: blur(22px);
+    animation: glowPulse 1.4s ease-in-out infinite alternate;
+    z-index: -1;
+}
+
+.banner-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    padding: 55px 15px 70px;
+}
+
+.dragon-symbol {
+    font-size: clamp(45px, 7vw, 75px);
+    margin-bottom: 10px;
+    filter: drop-shadow(0 0 12px #ff2100);
+    animation: dragonPulse 2s ease-in-out infinite;
+}
+
+h1 {
+    color: #fff0cf;
+    font-size: clamp(30px, 6vw, 66px);
+    font-weight: 900;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-shadow: 0 0 5px #ffb15c,
+                 0 0 15px #ff3c00,
+                 0 0 35px #ff1e00,
+                 3px 4px 0 #360500;
+    animation: nameGlow 2s ease-in-out infinite alternate;
+}
+
+.subtitle {
+    color: #ffe1c0;
+    margin-top: 22px;
+    font-size: clamp(12px, 2vw, 20px);
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-shadow: 0 0 12px #ff3900;
+}
+
+.bottom-fire {
+    position: absolute;
+    bottom: -35px;
+    left: -10%;
+    width: 120%;
+    height: 100px;
+    background:
+        radial-gradient(ellipse at 20% 100%, #ff1800 0%, transparent 55%),
+        radial-gradient(ellipse at 50% 100%, #ff5a00 0%, transparent 60%),
+        radial-gradient(ellipse at 80% 100%, #e81700 0%, transparent 55%);
+    filter: blur(12px);
+    animation: fireMove 2s ease-in-out infinite alternate;
+}
+
+@keyframes fireMove {
+    from { transform: translateX(-2%) scaleY(.85); }
+    to   { transform: translateX(2%) scaleY(1.2); }
+}
+
+@keyframes glowPulse {
+    from { opacity: .55; }
+    to   { opacity: 1; }
+}
+
+@keyframes nameGlow {
+    from {
+        text-shadow: 0 0 5px #ff9a50,
+                     0 0 15px #ff3500,
+                     0 0 25px #ff1e00;
+    }
+    to {
+        text-shadow: 0 0 8px #fff0cf,
+                     0 0 22px #ff5a00,
+                     0 0 45px #ff1800;
+    }
+}
+
+@keyframes dragonPulse {
+    0%, 100% { transform: scale(1); }
+    50%      { transform: scale(1.12); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+    }
+}
+</style>
+</head>
+
+<body>
+<div class="dragon-banner">
+    <div class="fire-glow"></div>
+    <div class="bottom-fire"></div>
+
+    <div class="banner-content">
+        <div class="dragon-symbol">🐉</div>
+        <h1>SADASHIV GAWADE</h1>
+        <p class="subtitle">
+            DRAGON OF CODE &bull; FORGED IN FIRE 🔥
+        </p>
+    </div>
+</div>
+</body>
+</html>
+
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=780&height=50&lines=%F0%9F%94%A5+Engineering+Ideas+Into+Real-World+Solutions;%F0%9F%90%89+B.Tech+IT+%7C+AI%2FML+%7C+Full-Stack;%E2%9A%94%EF%B8%8F+Building+Apps+%26+Developer+Tools;%F0%9F%94%A5+Open+to+Internships+%26+Entry-Level+Roles" alt="Typing animation"/>
