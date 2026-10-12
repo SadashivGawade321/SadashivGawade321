@@ -1,255 +1,215 @@
- <!-- Profile README for Sadashiv Gawade -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1020,35:312E81,70:7C3AED,100:00E5FF&text=SADASHIV%20GAWADE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20DATA%20SCIENCE%20%7C%20FULL-STACK%20ENGINEERING&descSize=15&descAlignY=58&animation=fadeIn&stroke=00E5FF&strokeWidth=1" width="100%" alt="Sadashiv Gawade — AI, Data Science and Full-Stack Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,35:1B1464,70:7C3AED,100:00E5FF&text=SADASHIV%20GAWADE&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=AI%2FML%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20SYSTEM%20DESIGN&descSize=16&descAlignY=62&animation=twinkling" width="100%" alt="Sadashiv Gawade Banner"/>
 
-### Building intelligent systems. Creating useful products. Solving real problems.
+<a href="https://github.com/SadashivGawade321">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=Engineering+Ideas+Into+Real-World+Solutions;B.Tech+IT+Student+%7C+AI%2FML+Enthusiast;Building+Full-Stack+Apps+%26+Developer+Tools;Learning+System+Design+%26+CI%2FCD;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing animation"/>
+</a>
 
-**Information Technology Undergraduate | AI/ML Enthusiast | Full-Stack Developer**
+<br/>
 
-I turn ideas into practical software through **Artificial Intelligence, data-driven solutions, and modern web technologies.**
-
-<p>
-  <a href="https://github.com/SadashivGawade321">
-    <img src="https://komarev.com/ghpvc/?username=SadashivGawade321&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/SadashivGawade321?tab=followers">
-    <img src="https://img.shields.io/github/followers/SadashivGawade321?style=for-the-badge&logo=github&label=FOLLOWERS&color=00E5FF" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/SadashivGawade321?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/sadashiv-gawade-b658732a9/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/SadashivGawade321">
-    <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<a href="https://github.com/SadashivGawade321">
+<img src="https://komarev.com/ghpvc/?username=SadashivGawade321&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+<a href="https://github.com/SadashivGawade321?tab=followers">
+<img src="https://img.shields.io/github/followers/SadashivGawade321?style=for-the-badge&logo=github&label=FOLLOWERS&color=00E5FF&labelColor=0D1117" alt="Followers"/>
+</a>
+<a href="https://www.linkedin.com/in/sadashiv-gawade-b658732a9/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## `01` — About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<img align="right" width="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadashivGawade321&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0B1020" alt="Most used programming languages"/>
+## ⚡ WHO AM I?
 
-- 🎓 Pursuing a **B.Tech in Information Technology**.
-- 🤖 Exploring Artificial Intelligence, Machine Learning, NLP, and Generative AI.
-- 🐍 Developing with Python, data science libraries, and backend frameworks.
-- 🌐 Building full-stack applications, APIs, and interactive developer tools.
-- 🧩 Practising DSA, system design, and software engineering fundamentals.
-- ⚙️ Learning automated testing, GitHub Actions, and CI/CD workflows.
-- 🤝 Open to collaboration, internships, and entry-level opportunities.
+```js
+const sadashiv = {
+  role: "B.Tech IT Undergraduate",
+  focus: ["AI/ML", "NLP", "Generative AI", "Full-Stack Development"],
+  languages: ["Python", "JavaScript", "TypeScript", "C++"],
+  currentlyLearning: ["System Design", "DSA", "GitHub Actions & CI/CD"],
+  approach: "Learn deeply. Build practically. Test carefully. Improve continuously.",
+  openTo: ["Internships", "Entry-Level Roles", "Open-Source Collaboration"],
+};
+```
 
-<br clear="right"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-> **My approach:** Learn deeply. Build practically. Test carefully. Improve continuously.
-
----
-
-## `02` — Technical Arsenal
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css&theme=dark" alt="Python, JavaScript, TypeScript, C++, HTML and CSS"/>
-
-### 🧠 Artificial Intelligence & Data Science
-
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&theme=dark" alt="Scikit-learn, PyTorch, TensorFlow and OpenCV"/>
-
-`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `NLP` · `Generative AI` · `EDA` · `Model Evaluation`
-
-### 🌐 Web Development & APIs
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,django,tailwind&theme=dark" alt="React, Next.js, Node.js, Express, FastAPI, Flask, Django and Tailwind CSS"/>
-
-`REST APIs` · `Authentication` · `Responsive UI` · `Full-Stack Applications`
-
-### 🗄️ Databases, Tools & Engineering
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,git,github,docker,linux,vscode,postman&theme=dark" alt="MongoDB, MySQL, PostgreSQL, Redis, Git, GitHub, Docker, Linux, VS Code and Postman"/>
-
-`GitHub Actions` · `CI/CD Fundamentals` · `Streamlit` · `Vercel` · `API Testing`
-
-</div>
-
----
-
-## `03` — Featured Projects
+## 🛠️ TECH ARSENAL
 
 <div align="center">
 
-### 🚀 Projects built to solve real problems
+**💻 Languages**
 
-*Explore my work across AI applications, developer productivity, and system design.*
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css&theme=dark" alt="Languages"/>
+
+**🧠 AI / ML / Data Science**
+
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&theme=dark" alt="AI ML"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge" alt="NLP"/>
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" alt="Generative AI"/>
+
+**🌐 Full-Stack**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,django,tailwind&theme=dark" alt="Full-Stack"/>
+
+**🗄️ Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,git,github,githubactions,docker,linux,vscode,postman,vercel&theme=dark" alt="Tools"/>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔎 CodeAtlas AI</h3>
+### 🔎 CodeAtlas AI
+<img src="https://img.shields.io/badge/AI-POWERED-7C3AED?style=flat-square" alt="AI"/>
+<img src="https://img.shields.io/badge/DEVELOPER-TOOLS-00E5FF?style=flat-square" alt="Dev Tools"/>
 
-**AI-Assisted Codebase Intelligence**
+AI-assisted codebase exploration for understanding architecture, dependencies, and potential change impact.
 
-Understand codebases through architecture exploration, dependency relationships, and potential change-impact analysis.
+**Stack:** `React` `Node.js` `Express` `MongoDB` `GitHub API`
 
-- Codebase navigation and architecture visualization
-- Dependency and blast-radius exploration
-- AI-assisted explanations and code review workflows
-
-**Stack:** React · Node.js · Express · MongoDB · GitHub API
-
-<a href="https://codeatlas181.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=netlify&logoColor=black" alt="CodeAtlas AI live demo"/></a>
-<a href="https://github.com/SadashivGawade321?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Browse source repositories"/></a>
+<a href="https://codeatlas181.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&logo=netlify&logoColor=black" alt="Live Demo"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🤝 SAATHI ONE</h3>
+### 🤝 SAATHI ONE
+<img src="https://img.shields.io/badge/AI-BUSINESS_ASSISTANT-7C3AED?style=flat-square" alt="AI Assistant"/>
+<img src="https://img.shields.io/badge/MULTILINGUAL-00E5FF?style=flat-square" alt="Multilingual"/>
 
-**AI Business Receptionist**
+A multilingual AI receptionist demo for service enquiries, business information, and booking workflows.
 
-A multilingual receptionist demo designed to assist service-based businesses with routine enquiries and booking requests.
+**Stack:** `Python` `Streamlit` `AI Workflows`
 
-- Business information and FAQs
-- Appointment and booking workflows
-- Hindi, Marathi, and English interactions
-
-**Stack:** Python · Streamlit · AI application workflows
-
-<a href="https://saathi-sadashiv.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=streamlit&logoColor=black" alt="SAATHI ONE live demo"/></a>
-<a href="https://github.com/SadashivGawade321?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Browse source repositories"/></a>
+<a href="https://saathi-sadashiv.streamlit.app/">
+<img src="https://img.shields.io/badge/LIVE-DEMO-00E5FF?style=for-the-badge&logo=streamlit&logoColor=black" alt="Live Demo"/>
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧑‍💼 AIHire OS</h3>
+### 🧑‍💼 AIHire OS
+<img src="https://img.shields.io/badge/FULL_STACK-APP-7C3AED?style=flat-square" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/HR-WORKFLOWS-00E5FF?style=flat-square" alt="HR"/>
 
-**Interview Platform Concept**
+An interview platform concept featuring candidate interview experiences and HR/admin workflows.
 
-A recruitment-focused application concept combining candidate interview experiences with HR and administrative workflows.
+**Focus:** `Full-Stack` `Interview Workflows`
 
-- Interview-oriented user experiences
-- HR and administration features
-- Real-time application interactions
-
-**Focus:** Full-Stack Development · Interview Workflows
-
-<a href="https://github.com/SadashivGawade321/AIHIRE"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="AIHire OS repository"/></a>
+<a href="https://github.com/SadashivGawade321/AIHIRE">
+<img src="https://img.shields.io/badge/VIEW-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>⚡ Distributed Rate Limiter Simulator</h3>
+### ⚡ Distributed Rate Limiter Simulator
+<img src="https://img.shields.io/badge/SYSTEM-DESIGN-7C3AED?style=flat-square" alt="System Design"/>
+<img src="https://img.shields.io/badge/INTERACTIVE-00E5FF?style=flat-square" alt="Interactive"/>
 
-**Interactive System Design Lab**
+A browser-based simulator for learning rate-limiting algorithms, caching, traffic management, and distributed systems concepts.
 
-An interactive, browser-based simulator for exploring traffic management and distributed systems concepts without a backend.
+**Focus:** `Algorithms` `System Design` `Distributed Systems`
 
-- Fixed, sliding-window, token-bucket, and leaky-bucket algorithms
-- API gateways, caching, and traffic flow
-- Resilience and system-design experimentation
-
-**Focus:** Algorithms · Distributed Systems · System Design
-
-<a href="https://distrubuter-ratelimiter.netlify.app/"><img src="https://img.shields.io/badge/Launch_Simulator-00E5FF?style=for-the-badge&logo=netlify&logoColor=black" alt="Launch rate limiter simulator"/></a>
+<a href="https://distrubuter-ratelimiter.netlify.app/">
+<img src="https://img.shields.io/badge/OPEN-SIMULATOR-00E5FF?style=for-the-badge&logo=netlify&logoColor=black" alt="Open Simulator"/>
+</a>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-<a href="https://github.com/SadashivGawade321?tab=repositories"><img src="https://img.shields.io/badge/Discover-More_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Discover more projects"/></a>
-
+<a href="https://github.com/SadashivGawade321?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
+</a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## `04` — GitHub Performance
+## 📊 GITHUB STATS
 
 <div align="center">
 
-<a href="https://github.com/SadashivGawade321">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SadashivGawade321&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0B1020&title_color=00E5FF&icon_color=8B5CF6&text_color=E2E8F0" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/SadashivGawade321">
-  <img height="175" src="https://streak-stats.demolab.com?user=SadashivGawade321&hide_border=true&background=0B1020&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
-</a>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=SadashivGawade321&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9" alt="Stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadashivGawade321&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SadashivGawade321&bg_color=0B1020&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+<img src="https://streak-stats.demolab.com/?user=SadashivGawade321&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" width="80%" alt="Streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SadashivGawade321&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SadashivGawade321&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" width="100%" alt="Activity Graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SadashivGawade321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="Trophies"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## `05` — Current Focus
-
-<div align="center">
+## 🎯 CURRENT FOCUS
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" valign="top" align="center">
 
 ### 🧠 AI & ML
-
-Building practical AI applications, improving data processing, and learning model evaluation.
-
-</td>
-<td align="center" width="33%">
-
-### 🌐 Engineering
-
-Developing robust APIs, full-stack products, and maintainable software.
+Building practical AI apps, exploring NLP, and learning model evaluation.
 
 </td>
-<td align="center" width="33%">
+<td width="33%" valign="top" align="center">
 
-### ⚙️ Systems
+### 🌐 SOFTWARE ENGINEERING
+Developing robust APIs, full-stack apps, and maintainable software.
 
-Practising DSA, system design, automated testing, and CI/CD.
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⚙️ SYSTEMS & CI/CD
+Practising DSA, system design, automated testing, and GitHub Actions.
 
 </td>
 </tr>
 </table>
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
----
+## 🤝 LET'S CONNECT
 
-## `06` — Let's Build Something
+Interested in AI-powered products, developer tools, and open-source collaboration.
 
-Interested in AI-powered products, open-source collaboration, developer tools, or opportunities where I can contribute and grow.
-
-**Currently open to internship and entry-level opportunities in:**
-
+**Open to internships & entry-level roles in:**
 `AI/ML` · `Python Development` · `Data Science` · `Full-Stack Development`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sadashiv-gawade-b658732a9/"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-<a href="https://github.com/SadashivGawade321?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/></a>
+<a href="https://www.linkedin.com/in/sadashiv-gawade-b658732a9/">
+<img src="https://img.shields.io/badge/CONNECT_ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/SadashivGawade321">
+<img src="https://img.shields.io/badge/FOLLOW_ON-GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<br/>
+<br/><br/>
 
-### *“Think boldly. Build intelligently. Make it matter.”*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Think+Boldly.+Build+Intelligently.+Ship+With+Purpose." alt="Tagline"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,45:7C3AED,100:0B1020&section=footer" width="100%" alt="Cyan and violet footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,45:7C3AED,100:0D1117" width="100%" alt="Footer"/>
 
 </div>
-
-<!-- End of Profile README -->
