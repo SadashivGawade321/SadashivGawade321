@@ -22,7 +22,7 @@
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
-<img src="koi/koi.gif" width="256" alt="My koi" />
+
 ## `> system.boot --verbose`
 
 ```ansi
@@ -273,3 +273,4 @@ sadashiv@neural-core:~$ echo "Let's build something remarkable together."
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00D4FF,40:8B5CF6,75:FF1744,100:03050f&animation=twinkling" width="100%" alt="Footer"/>
 
 </div>
+<img src="koi/koi.gif" width="256" alt="My koi" />
