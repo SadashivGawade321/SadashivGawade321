@@ -280,23 +280,35 @@ sadashiv@neural-core:~$ echo "Let's build something remarkable together."
 
 <div align="center">
 
-<h3>
-  <span>⚡ AI VISITOR MONITOR ⚡</span>
-</h3>
+<!-- AI VISITOR MONITOR -->
+<div style="background:#090b18; border:1px solid #8b35ff; border-radius:12px; padding:20px;">
+
+<h2>
+  <span style="color:#00d9ff;">⚡</span>
+  <span style="color:#a855f7;">AI VISITOR MONITOR</span>
+  <span style="color:#ff176b;">⚡</span>
+</h2>
 
 <p>
-  <b>◉ LIVE PROFILE VISITOR TRACKER ◉</b>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&width=350&lines=%3E%3E+LIVE+PROFILE+VISITOR+TRACKER;%3E%3E+SYSTEM+ONLINE;%3E%3E+MONITORING+VISITORS..." />
 </p>
 
-<img
-  src="https://komarev.com/ghpvc/?username=SadashivGawade321&label=VISITORS&color=00F5FF&style=for-the-badge"
-  alt="Profile Visitors"
-/>
+<img src="https://komarev.com/ghpvc/?username=SadashivGawade321&label=PROFILE+VISITORS&color=7B2FFF&style=for-the-badge" />
 
-<p>
-  <code>INITIALIZING...</code>
-  <br/>
-  <code>▰▰▰▰▰▰▰▰▰▰ 100%</code>
-</p>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&duration=1500&pause=400&color=00D9FF&center=true&vCenter=true&width=350&lines=INITIALIZING+AI+MONITOR...;SCANNING+PROFILE+ACTIVITY...;VISITOR+TRACKING+ACTIVE...;%3E%3E+ACCESS+GRANTED+%E2%9C%93" />
+
+<br/>
+
+<sub>
+  <font color="#8b5cf6">MODEL: SADASHIV-AI</font>
+  &nbsp;|&nbsp;
+  <font color="#00d9ff">STATUS: ONLINE</font>
+  &nbsp;|&nbsp;
+  <font color="#ff176b">SYSTEM: ACTIVE</font>
+</sub>
+
+</div>
 
 </div>
