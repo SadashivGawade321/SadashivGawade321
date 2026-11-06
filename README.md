@@ -280,48 +280,23 @@ sadashiv@neural-core:~$ echo "Let's build something remarkable together."
 
 <div align="center">
 
-<!-- NEON AI IDENTITY -->
+<h3>
+  <span>⚡ AI VISITOR MONITOR ⚡</span>
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=HELLO%2C+WORLD!;I'M+SADASHIV+GAWADE;AI+ENGINEER+%7C+BUILDER;WELCOME+TO+MY+DIGITAL+UNIVERSE" />
+<p>
+  <b>◉ LIVE PROFILE VISITOR TRACKER ◉</b>
+</p>
 
-<br/>
+<img
+  src="https://komarev.com/ghpvc/?username=SadashivGawade321&label=VISITORS&color=00F5FF&style=for-the-badge"
+  alt="Profile Visitors"
+/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:00F5FF&height=3&section=header" width="80%"/>
-
-<br/>
-
-### `> SYSTEM STATUS: ONLINE`
-
-<img src="https://img.shields.io/badge/AI%20ENGINEER-00F5FF?style=for-the-badge&logo=probot&logoColor=black" />
-<img src="https://img.shields.io/badge/GEN%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%20AGENTS-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=%3E+Building+Intelligent+Systems...;%3E+Exploring+Generative+AI...;%3E+Engineering+Autonomous+Agents...;%3E+Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
-
-<br/><br/>
-
-**I don't just follow technology. I build with it.**
-
-<sub>Artificial Intelligence · Machine Learning · Generative AI · Full Stack</sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SadashivGawade321&label=PROFILE+VISITORS&color=00F5FF&style=for-the-badge" />
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/sadashiv-gawade-b658732a">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### `THINK  //  BUILD  //  INNOVATE`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:312E81,100:050816&height=80&section=footer" width="100%"/>
+<p>
+  <code>INITIALIZING...</code>
+  <br/>
+  <code>▰▰▰▰▰▰▰▰▰▰ 100%</code>
+</p>
 
 </div>
-
-
