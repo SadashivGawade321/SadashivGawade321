@@ -22,7 +22,7 @@
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
-
+<img src="koi/koi.gif" width="256" alt="My koi" />
 ## `> system.boot --verbose`
 
 ```ansi
