@@ -265,7 +265,7 @@ sadashiv@neural-core:~$ echo "Let's build something remarkable together."
 <a href="https://github.com/SadashivGawade321">
 <img src="https://img.shields.io/badge/FOLLOW_ON-GITHUB-FF1744?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E27" alt="GitHub"/>
 </a>
-
+<img src="koi/koi.gif" width="256" alt="My koi" />
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1200&color=B026FF&center=true&vCenter=true&width=800&lines=Think+boldly.+Build+intelligently.+Ship+with+purpose.;while+%28alive%29+%7B+learn%28%29%3B+build%28%29%3B+ship%28%29%3B+%7D" alt="Tagline"/>
@@ -273,4 +273,4 @@ sadashiv@neural-core:~$ echo "Let's build something remarkable together."
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00D4FF,40:8B5CF6,75:FF1744,100:03050f&animation=twinkling" width="100%" alt="Footer"/>
 
 </div>
-<img src="koi/koi.gif" width="256" alt="My koi" />
+
