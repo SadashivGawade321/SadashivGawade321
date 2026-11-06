@@ -152,30 +152,6 @@ Interview platform concept featuring candidate interview experiences alongside H
 </td>
 <td width="50%" valign="top">
 
-
-
-<div align="center">
-
-  <h2>👀 PROFILE VISITORS</h2>
-
-  <img src="https://komarev.com/ghpvc/?username=SadashivGawade321&label=TOTAL+PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Visitors" />
-
-  <br/><br/>
-
-  <p>
-    ✨ Thanks for visiting my GitHub profile! 
-    <br/>
-    Let's connect and build something amazing together.
-  </p>
-
-  <img src="https://img.shields.io/badge/Always-Learning-00D9FF?style=flat-square&logo=github&logoColor=white" />
-
-</div>
-
-
-
-
-
 ### ⚡ Distributed Rate Limiter Simulator
 <img src="https://img.shields.io/badge/SYSTEM-DESIGN-8B5CF6?style=flat-square&labelColor=0A0E27" alt="System design"/>
 <img src="https://img.shields.io/badge/INTERACTIVE-FF1744?style=flat-square&labelColor=0A0E27" alt="Interactive"/>
@@ -301,5 +277,21 @@ sadashiv@neural-core:~$ echo "Let's build something remarkable together."
 </div>
 
 
+<div align="center">
 
+  <h2>👀 PROFILE VISITORS</h2>
+
+  <img src="https://komarev.com/ghpvc/?username=SadashivGawade321&label=TOTAL+PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Visitors" />
+
+  <br/><br/>
+
+  <p>
+    ✨ Thanks for visiting my GitHub profile! 
+    <br/>
+    Let's connect and build something amazing together.
+  </p>
+
+  <img src="https://img.shields.io/badge/Always-Learning-00D9FF?style=flat-square&logo=github&logoColor=white" />
+
+</div>
 
